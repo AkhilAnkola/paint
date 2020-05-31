@@ -1,0 +1,15 @@
+body
+{
+	height: 100vh;
+	background-color: black;
+}
+canvas
+{
+	background-image:url(canvas.png); 
+	/*width: 100%;*/
+	background-repeat: no-repeat
+}
+h2
+{
+	color: white;
+}
